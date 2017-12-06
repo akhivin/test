@@ -3,8 +3,8 @@ Usage
 Console interactive commands:
 
  * exit - stop execution
- * goto <n> - user pressed button inside elevator. n - target floor number
- * floor <n> - user pressed hall button on a floor n
+ * goto &lt;n&gt; - user pressed button inside elevator. n - target floor number
+ * floor &lt;n&gt; - user pressed hall button on a floor n
 
 Implementation
 --------------
